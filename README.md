@@ -1,2 +1,3 @@
-# GoPlusTest
-GoPlus test program
+# MathModelling by Python
+
+Here's mathmodelling by Python
